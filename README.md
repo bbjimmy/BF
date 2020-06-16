@@ -1,2 +1,2 @@
 # BF
-midified BuildFactory file to allow build in haikuporter
+Modified BuildFactory file to allow it to build a binary in a haikuports recipe.
